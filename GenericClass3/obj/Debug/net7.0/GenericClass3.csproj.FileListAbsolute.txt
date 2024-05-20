@@ -1,0 +1,15 @@
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\bin\Debug\net7.0\GenericClass3.exe
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\bin\Debug\net7.0\GenericClass3.deps.json
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\bin\Debug\net7.0\GenericClass3.runtimeconfig.json
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\bin\Debug\net7.0\GenericClass3.dll
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\bin\Debug\net7.0\GenericClass3.pdb
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.csproj.AssemblyReference.cache
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.AssemblyInfoInputs.cache
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.AssemblyInfo.cs
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.csproj.CoreCompileInputs.cache
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.dll
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\refint\GenericClass3.dll
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.pdb
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\GenericClass3.genruntimeconfig.cache
+C:\programmering2cs\GenericClasses\GenericClass\GenericClass3\obj\Debug\net7.0\ref\GenericClass3.dll
